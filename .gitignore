@@ -68,3 +68,11 @@ target/
 .idea/python-wordpress-json.iml
 .idea/vcs.xml
 .idea/workspace.xml
+
+#Eclipse - PyDev
+.project
+.pydevproject
+.settings
+
+#Emacs tmp files
+*~
